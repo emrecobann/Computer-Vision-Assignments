@@ -1,18 +1,12 @@
----LIBRARIES AND VERSIONS---
+## Libraries and Versions
 
-python==3.9.10
+- **Python**: 3.9.10
+- **Tqdm**: 4.66.1
+- **Scikit-learn**: 1.3.2
+- **NumPy**: 1.26.2
+- **Matplotlib**: 3.8.1
+- **OpenCV-Python**: 4.8.1.78
 
-tqdm==4.66.1
+## Details and Extra Information
 
-scikit-learn==1.3.2
-
-numpy==1.26.2
-
-matplotlib==3.8.1
-
-opencv-python==4.8.1.78
-
-
-
-DETAILS AND EXTRA INFORMATION /////
-It takes around 1.5 minute to process all images and extract circles. Whole code takes around 2 minutes at most.
+It takes around 1.5 minutes to process all images and extract circles. The whole code takes around 2 minutes at most.
