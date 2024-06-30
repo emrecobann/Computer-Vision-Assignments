@@ -11,10 +11,10 @@
 
 File Organization should look like this:
 -src
-    - AIN433_Assignment_4.ipynb
-    - indoorCVPR_09
-        - Images
-    - Racoon.v2-raw.yolov4pytorch
-        - test
-        - train
-        - val
+    -AIN433_Assignment_4.ipynb
+    -indoorCVPR_09
+        -Images
+    -Racoon.v2-raw.yolov4pytorch
+        -test
+        -train
+        -val
